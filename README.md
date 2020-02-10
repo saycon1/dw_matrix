@@ -1,2 +1,5 @@
 # dw_matrix
-Prj Matrix 
+Prj Matrix - dzień pierwszy 
+- a
+- b
+- c
